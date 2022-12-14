@@ -1,0 +1,1 @@
+sevenseg_font = sasl.gl.loadFont("font/DSEG7Classic-Bold.ttf")

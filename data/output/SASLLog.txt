@@ -1,0 +1,14 @@
+[GRAPHING INFO]: Initializing...
+[GRAPHING INFO]: Path to module: D:\X-Plane 11 Second Copy/Resources/plugins/Accelerometer/data/modules/main.lua
+[GRAPHING INFO]: Loading module...
+[GRAPHING INFO]: [LUA]: loading	module
+[GRAPHING INFO]: [LUA]: including	functions.lua
+[GRAPHING INFO]: [LUA]: including	datarefs.lua
+[GRAPHING INFO]: [LUA]: including	constants.lua
+[GRAPHING INFO]: [LUA]: including	libs/geo-helpers.lua
+[GRAPHING INFO]: [LUA]: including	libs/global_functions.lua
+[GRAPHING INFO]: [LUA]: including	libs/graphics_helpers.lua
+[GRAPHING INFO]: [LUA]: loading	graphing_window
+[GRAPHING INFO]: Module loaded
+[GRAPHING INFO]: Disabling...
+[GRAPHING INFO]: SASL plugin stopped...
